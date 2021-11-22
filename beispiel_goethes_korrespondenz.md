@@ -96,6 +96,9 @@ werden diese interessante Information allerdings aus didaktischen Gründen ignor
     Datenlage unterschiedlich gut eignen. Eine manuelle Kontrolle ist sinnvoll! Wichtig: Zum 
     Clustern auf allen Werten, dürfen in der Facette keine Werte ausgewählt sein, sonst werden nur 
     diese geclustert! 
+  - Weiterhin erkennen wir in der Facette über den Eintrag `(blank)`, dass es Briefe gibt, den denen 
+    persName-Felder leer sind, also die Korrespondenzpartner unbekannt sind. Diese Briefe interessieren
+    uns nicht und daher löschen wir sie über das All-Menü unter `Edit rows > Remove matching rows`.
     
 5. Spalten und Zellen vereinen und auftrennen
   - OpenRefine bietet mehrere Möglichkeiten, Werte zu vereinen oder zu trennen. Das Trennen und
