@@ -192,5 +192,5 @@ Weitere mögliche Schritte zum Üben wären:
 - Die Koordinaten in zwei Spalten für lat und long aufspalten oder als WKT formatieren. 
 - Die Personendaten ebenfalls mit Wikidata reconcilen und die Tabelle mit Lebensdaten oder 
   (Links zu) Thumbnails der Personen anreichern. 
-- Die Bearbeitungshistorie kopieren und auf die Korrespondenz von Alexander von Humboldt anwenden.
+- Die Bearbeitungshistorie kopieren und auf die Korrespondenz von Alexander von Humboldt (https://correspsearch.net/api/v1.2/tei-xml.xql?correspondent=http://d-nb.info/gnd/118554700) anwenden.
   
